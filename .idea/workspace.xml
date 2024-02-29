@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4df4c72d-b5ff-45d7-873a-3294f72d9670" name="Changes" comment="v1.2">
+    <list default="true" id="4df4c72d-b5ff-45d7-873a-3294f72d9670" name="Changes" comment="v1.3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1709219256716</updated>
       <workItem from="1709219259979" duration="506000" />
-      <workItem from="1709219876083" duration="324000" />
+      <workItem from="1709219876083" duration="2634000" />
+      <workItem from="1709225389177" duration="108000" />
     </task>
     <task id="LOCAL-00001" summary="v1.2">
       <option name="closed" value="true" />
@@ -66,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709219982952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v1.3">
+      <option name="closed" value="true" />
+      <created>1709220222329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709220222329</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.2" />
+    <MESSAGE value="v1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.3" />
   </component>
 </project>

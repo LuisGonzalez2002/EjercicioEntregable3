@@ -75,3 +75,14 @@
     padding-top: calc(60% - 10px);
     background-color: pink;
 }
+h1 {
+    color: forestgreen;
+}
+
+h2 {
+    color: #008080; /* Hexadecimal para teal */
+}
+
+p {
+    color: rgb(70, 130, 180); /* RGB para steelblue */
+}
