@@ -22,75 +22,56 @@
     border: 5px solid transparent;
     box-sizing: border-box;
 }
-
-.red::before {
-    border-color: red;
-}
-
-.blue::before {
-    border-color: blue;
-}
-
-.green::before {
-    border-color: green;
-}
-
-.yellow::before {
-    border-color: yellow;
-}
-
-.orange::before {
-    border-color: orange;
-}
-
-.purple::before {
-    border-color: purple;
-}
-
-.cyan::before {
-    border-color: cyan;
-}
-
-.magenta::before {
-    border-color: magenta;
-}
-
-.pink::before {
-    border-color: pink;
-}
-
 .red {
-    background-color: transparent;
+    width: calc(20% - 10px);
+    padding-top: calc(20% - 10px);
+    background-color: red;
 }
 
 .blue {
-    background-color: transparent;
+    width: calc(25% - 10px);
+    padding-top: calc(25% - 10px);
+    background-color: blue;
 }
 
 .green {
-    background-color: transparent;
+    width: calc(30% - 10px);
+    padding-top: calc(30% - 10px);
+    background-color: green;
 }
 
 .yellow {
-    background-color: transparent;
+    width: calc(35% - 10px);
+    padding-top: calc(35% - 10px);
+    background-color: yellow;
 }
 
 .orange {
-    background-color: transparent;
+    width: calc(40% - 10px);
+    padding-top: calc(40% - 10px);
+    background-color: orange;
 }
 
 .purple {
-    background-color: transparent;
+    width: calc(45% - 10px);
+    padding-top: calc(45% - 10px);
+    background-color: purple;
 }
 
 .cyan {
-    background-color: transparent;
+    width: calc(50% - 10px);
+    padding-top: calc(50% - 10px);
+    background-color: cyan;
 }
 
 .magenta {
-    background-color: transparent;
+    width: calc(55% - 10px);
+    padding-top: calc(55% - 10px);
+    background-color: magenta;
 }
 
 .pink {
-    background-color: transparent;
+    width: calc(60% - 10px);
+    padding-top: calc(60% - 10px);
+    background-color: pink;
 }
